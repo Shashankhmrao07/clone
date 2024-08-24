@@ -4,7 +4,7 @@ Submitted by: **👉🏿 Shashank H M**
 
 About this web app: **👉🏿 A simple version of the clone app with all the required features implemented and built so that it can interact with an API and supports CRUD operations.**
 
-Time spent: **👉🏿 15** hours
+Time spent: **👉🏿 3** hours
 
 ## Required Features
 
